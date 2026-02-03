@@ -1,11 +1,11 @@
 
 ## About Me
 
-I'm **Tiago Batista**, a passionate developer and tech enthusiast. I enjoy exploring new technologies and using them to solve real-world problems. My main focus is on backend development with .NET.
+I’m a Senior Software Engineer with a passion for learning, collaboration, and solving meaningful problems. I enjoy working in teams where knowledge is shared openly, and I strive to contribute to a positive and respectful environment.
 
-🌱 **Currently learning**: .NET 8  
-💬 **Ask me about**: .NET, C# and Elasticsearch  
-⚡ **Fun fact**: I love futsal and gym!
+I’m naturally curious and like to explore new ideas and approaches. I value steady progress, clear thinking, and continuous learning — both in my work and in how I grow as a person.
+
+I'm motivated by challenges that help me grow and by the opportunity to work on projects that have real impact.
 
 ## Tech Stack
 
