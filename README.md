@@ -31,13 +31,6 @@ I'm motivated by challenges that help me grow and by the opportunity to work on 
   <img title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" style="width: 30px; height: 30px; border-radius: 50%; background-color: #CC2927;"/>
 </div>
 
-## GitHub Stats
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiagobatista&show_icons=true&theme=default" alt="Tiago's GitHub stats" style="width: 400px; height:200px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobatista&layout=compact&theme=default" alt="Top Languages" style="width: 400px; height:200px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1);"/>
-</div>
-
 ## Projects
 
 ### [Cassandra Sample Project - Miniature Catalog Management System](https://github.com/tiagobatista/cassandra-sample-project-catalog-management-system)
